@@ -18,5 +18,4 @@ void loop() {
     {
       digitalWrite(D1, LOW);
     }
-    
 }
